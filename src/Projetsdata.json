@@ -1,0 +1,64 @@
+{
+  "projectData": [
+    {
+      "id": 1,
+      "title": "Genz Styles",
+      "description": "Genz Styles is a vibrant platform dedicated to showcasing the latest trends and styles embraced by the dynamic Generation Z. Explore a curated collection of fashion inspiration, lifestyle tips, and more.",
+      "technology_used": "MERN stack",
+      "improvement": "In the upcoming months, our focus will be on elevating the user experience through enhanced UI design and the introduction of new and exciting functional components.",
+      "website_link": "www.genzstyles.com",
+      "github_repo": "https://github.com/genzstyles",
+      "start_date": "2022-05-01",
+      "end_date": "2023-12-31",
+      "image_url": "https://example.com/genzstyles.jpg"
+    },
+    {
+      "id": 2,
+      "title": "TechHub Connect",
+      "description": "TechHub Connect serves as the central hub for tech enthusiasts and professionals to collaborate, share knowledge, and build connections. Join the community and stay updated on the latest in the tech world.",
+      "technology_used": "LAMP stack",
+      "improvement": "Our roadmap includes refining user profiles, optimizing communication features, and fostering a more engaging and collaborative environment.",
+      "website_link": "www.techhubconnect.com",
+      "github_repo": "https://github.com/techhubconnect",
+      "start_date": "2021-10-15",
+      "end_date": "2023-11-30",
+      "image_url": "https://example.com/techhubconnect.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Foodie Finds",
+      "description": "Embark on a culinary journey with Foodie Finds. Discover hidden gems and popular dining spots in your city. Our platform is your guide to unique food experiences and delicious adventures.",
+      "technology_used": "MEAN stack",
+      "improvement": "We're working on implementing a personalized recommendation engine to make your food exploration even more tailored to your tastes.",
+      "website_link": "www.foodiefinds.com",
+      "github_repo": "https://github.com/foodiefinds",
+      "start_date": "2022-01-20",
+      "end_date": "2023-09-15",
+      "image_url": "https://example.com/foodiefinds.jpg"
+    },
+    {
+      "id": 4,
+      "title": "HealthTrackr",
+      "description": "Take control of your fitness journey with HealthTrackr. Monitor your progress, set goals, and stay motivated. Your health is in your hands, and we're here to support you every step of the way.",
+      "technology_used": "Django",
+      "improvement": "We're integrating wearable devices to provide you with a more comprehensive and real-time view of your health and fitness metrics.",
+      "website_link": "www.healthtrackr.com",
+      "github_repo": "https://github.com/healthtrackr",
+      "start_date": "2022-03-10",
+      "end_date": "2024-01-31",
+      "image_url": "https://example.com/healthtrackr.jpg"
+    },
+    {
+      "id": 5,
+      "title": "TravelVibes",
+      "description": "Embark on unforgettable journeys with TravelVibes. Discover the world's most exciting destinations, connect with fellow travelers, and share your own travel stories. Your adventure begins here.",
+      "technology_used": "Ruby on Rails",
+      "improvement": "We're enhancing the TravelVibes experience by adding social sharing features and empowering users to contribute their unique travel insights.",
+      "website_link": "www.travelvibes.com",
+      "github_repo": "https://github.com/travelvibes",
+      "start_date": "2021-08-05",
+      "end_date": "2023-10-20",
+      "image_url": "https://example.com/travelvibes.jpg"
+    }
+  ]
+}
